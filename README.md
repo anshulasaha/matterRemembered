@@ -27,12 +27,6 @@ Arduino IDE
 Custom C++ code (in /code/ folder)
 Data:
 Global Material Flows Database (U.S. material footprint 1970–2024)
-📂 Repository Structure
-
-/code           → Arduino sketch & libraries
-/images         → Installation and process photos
-/journal        → *Identity Crisis: Duct Tape* journal scans
-/README.md      → This file
 
 🚀 How to Run
 
